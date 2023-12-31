@@ -1,6 +1,6 @@
 # Random Password Generator
 
-- <a href="https://deft-semifreddo-b7d848.netlify.app/">Live Preview</a>
+- <a href="https://asarahmed.github.io/Random-Password-Generator/">Live Preview</a>
 
 - <a href="https://scrimba.com/scrim/cqbPv4f7">View Scrim</a>
 
